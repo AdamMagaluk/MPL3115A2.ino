@@ -1,0 +1,17 @@
+{
+  "name": "mpl3115a2.ino",
+  "version": "0.0.2",
+  "description": "MPL3115A2 Altitude/Pressure Sensor leo library.",
+  "main": "index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "wire.ino": "0.0.2"
+  }
+}
